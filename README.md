@@ -14,6 +14,7 @@ It displays not just the last 10 players, and also allows you to watch the rest 
 
 # Requirements 
 * PHP 5.4 or higher
+* mbstring needs installed if running on PHP 7/8
 * Installed hlstatsx
 
 # Installation
