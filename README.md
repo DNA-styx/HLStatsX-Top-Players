@@ -1,6 +1,8 @@
 # Top HLStatsX Players
 Script to display the rating of the hlstatsx players
 
+Demo Page: https://stats.dnagames.site/top-hlstatsx-players/?game=dods
+
 # About
 Do you want to place on the forum mini-ranked players on your servers (team fortress 2, counter-strike: source, counter-strike: global offensive, etc)?
 This script will help you!
