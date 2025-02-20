@@ -1,6 +1,15 @@
 # Top HLStatsX Players
 Script to display the rating of the hlstatsx players
 
+  <a href="https://github.com/DNA-styx/HLStatsX-Top-Players/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/DNA-styx/HLStatsX-Top-Players?include_prereleases"></a>
+  <img src="https://img.shields.io/github/downloads/DNA-styx/HLStatsX-Top-Players/total">
+  <a href="https://github.com/DNA-styx/HLStatsX-Top-Players/issues"><img src="https://img.shields.io/github/issues/DNA-styx/HLStatsX-Top-Players"></a>
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/DNA-styx/HLStatsX-Top-Players">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DNA-styx/HLStatsX-Top-Players">
+
+![image](https://github.com/user-attachments/assets/24145092-928d-4110-bfd2-2fa2bc407430)
+
+
 Demo Page: https://stats.dnagames.site/top-hlstatsx-players/index.html
 
 # About
